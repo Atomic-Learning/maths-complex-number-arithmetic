@@ -1,0 +1,18 @@
+{
+    "title": "Mathematics: Complex Number Arithmetic",
+    "slug": "maths-complex-number-arithmetic",
+    "description": "Learn how to add, subtract, and multiply complex numbers using standard rules for real and imaginary parts.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "maths-complex-numbers"
+    ],
+    "related": [
+        "python-complex-numbers"
+    ]
+}
