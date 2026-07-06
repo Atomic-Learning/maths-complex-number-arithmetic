@@ -13,6 +13,8 @@
         "maths-complex-numbers"
     ],
     "related": [
+        "maths-complex-division-rectangular",
+        "maths-complex-inverse-rectangular",
         "python-complex-numbers"
     ]
 }
